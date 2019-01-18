@@ -4,8 +4,9 @@
     "\\public",
     "\\public\\assets",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\shared"
   ],
-  "SelectedNode": "\\public\\assets\\images",
+  "SelectedNode": "\\src\\components\\DishdetailComponent.js",
   "PreviewInSolutionExplorer": false
 }
